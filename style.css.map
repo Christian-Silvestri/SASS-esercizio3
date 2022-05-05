@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["style.scss","scss/_color-font.scss","scss/_mixin-article.scss"],"names":[],"mappings":"AAIA;EACI;;;AAIJ;EACI;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;EACA;EACA;;AAEA;EACI,OCtBS;EDuBT;;AAGJ;EACI;;AAGA;EACI;;AAEA;EElCR;EACA;EACA;;AFoCQ;EEtCR,ODDY;ECEZ;EACA;;AF2CA;EE7CA,ODCa;ECAb;EACA,WF4C6D;EACzD","file":"style.css"}
